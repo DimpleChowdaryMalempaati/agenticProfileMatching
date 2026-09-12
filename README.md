@@ -112,15 +112,6 @@ Agent> Round1 top10 → deep analysis → HIRE/MAYBE/NO_HIRE
 You> done
 ```
 
-## Demo video outline (5–6 min)
-
-1. **0:00–0:40** — Architecture: show `docs/state_machine.md` + folder layout  
-2. **0:40–2:00** — CLI/Streamlit: React + 3 years search; show reasoning trail  
-3. **2:00–3:00** — Compare top 3; explain why A > B  
-4. **3:00–4:00** — Refine requirements mid-chat; show ranking changes  
-5. **4:00–5:20** — Multi-round screening + strengths/gaps + hire decisions  
-6. **5:20–6:00** — Interview questions + saved report in `reports/`
-
 ## Error handling
 
 - Tools return `{success, error: {message, code}}` envelopes (`core/exceptions.py`)
@@ -128,6 +119,3 @@ You> done
 - Missing index → clear instruction to run `scripts/setup_index.py`
 - Unknown candidates / empty JD → validation errors without crashing the session
 
-## License
-
-Academic assignment project.
