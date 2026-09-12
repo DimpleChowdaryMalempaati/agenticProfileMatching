@@ -1,0 +1,28 @@
+Zara Allen
+zara.allen@email.com | linkedin.com/in/zaraallen
+
+Summary
+NLP Engineer with 4+ years of experience. Built chatbots and text classification systems.
+
+Experience
+Senior NLP Engineer | TechCorp 26
+2022-Present
+- Built chatbots and text classification systems.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: Python, NLP, PyTorch, Machine Learning, FastAPI, Docker
+
+NLP Engineer | InnovateSoft 26
+2020-2022
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+M.S. Computer Science, University of Michigan
+Graduated 2020
+
+Skills
+Python, NLP, PyTorch, Machine Learning, FastAPI, Docker
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

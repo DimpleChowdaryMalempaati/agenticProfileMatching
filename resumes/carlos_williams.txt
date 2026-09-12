@@ -1,0 +1,28 @@
+Carlos Williams
+carlos.williams@email.com | linkedin.com/in/carloswilliams
+
+Summary
+Data Scientist with 6+ years of experience. Delivered predictive models and business analytics dashboards.
+
+Experience
+Senior Data Scientist | TechCorp 3
+2020-Present
+- Delivered predictive models and business analytics dashboards.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: Python, Pandas, Scikit-learn, SQL, Data Analysis, Machine Learning
+
+Data Scientist | InnovateSoft 3
+2018-2020
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+B.S. Data Science, UC Berkeley
+Graduated 2018
+
+Skills
+Python, Pandas, Scikit-learn, SQL, Data Analysis, Machine Learning
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

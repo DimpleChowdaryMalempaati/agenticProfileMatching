@@ -1,0 +1,23 @@
+{
+  "filename": "backend_java_developer.json",
+  "title": "Backend Java Developer",
+  "description": "Backend Java Developer for microservices platform. Spring Boot, Kafka, PostgreSQL, and REST API design. 5+ years Java experience.",
+  "critical_skills": [
+    "Java",
+    "Spring",
+    "Microservices",
+    "PostgreSQL",
+    "Kafka",
+    "REST"
+  ],
+  "must_have": [
+    {
+      "skill": "Java",
+      "min_years": 5
+    },
+    {
+      "skill": "Spring",
+      "min_years": 3
+    }
+  ]
+}

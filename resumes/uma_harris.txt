@@ -1,0 +1,28 @@
+Uma Harris
+uma.harris@email.com | linkedin.com/in/umaharris
+
+Summary
+Senior Python ML Engineer with 8+ years of experience. Built production ML pipelines and recommendation systems.
+
+Experience
+Senior Senior Python ML Engineer | TechCorp 21
+2018-Present
+- Built production ML pipelines and recommendation systems.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: Python, Machine Learning, TensorFlow, PyTorch, AWS, Docker, SQL
+
+Senior Python ML Engineer | InnovateSoft 21
+2016-2018
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+B.S. Software Engineering, MIT
+Graduated 2016
+
+Skills
+Python, Machine Learning, TensorFlow, PyTorch, AWS, Docker, SQL
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

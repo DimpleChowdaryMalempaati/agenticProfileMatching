@@ -1,0 +1,23 @@
+{
+  "filename": "devops_engineer.json",
+  "title": "DevOps Engineer",
+  "description": "DevOps Engineer needed to manage AWS infrastructure, Kubernetes clusters, and CI/CD pipelines. Experience with Terraform and Docker required. 5+ years in DevOps or SRE roles.",
+  "critical_skills": [
+    "AWS",
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "CI/CD",
+    "Linux"
+  ],
+  "must_have": [
+    {
+      "skill": "AWS",
+      "min_years": 4
+    },
+    {
+      "skill": "Kubernetes",
+      "min_years": 2
+    }
+  ]
+}

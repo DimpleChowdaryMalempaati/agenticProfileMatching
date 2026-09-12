@@ -1,0 +1,23 @@
+{
+  "filename": "data_scientist.json",
+  "title": "Data Scientist",
+  "description": "Data Scientist to build predictive models and deliver insights. Strong Python, Pandas, Scikit-learn, and SQL skills. Experience with A/B testing and statistical modeling preferred.",
+  "critical_skills": [
+    "Python",
+    "Pandas",
+    "Scikit-learn",
+    "SQL",
+    "Data Analysis",
+    "Machine Learning"
+  ],
+  "must_have": [
+    {
+      "skill": "Python",
+      "min_years": 3
+    },
+    {
+      "skill": "SQL",
+      "min_years": 2
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+Adam Young
+adam.young@email.com | linkedin.com/in/adamyoung
+
+Summary
+Cloud Architect with 12+ years of experience. Led cloud migration and architecture for enterprise clients.
+
+Experience
+Senior Cloud Architect | TechCorp 27
+2014-Present
+- Led cloud migration and architecture for enterprise clients.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: AWS, Azure, GCP, Terraform, Kubernetes, DevOps
+
+Cloud Architect | InnovateSoft 27
+2012-2014
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+B.S. Data Science, UT Austin
+Graduated 2012
+
+Skills
+AWS, Azure, GCP, Terraform, Kubernetes, DevOps
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

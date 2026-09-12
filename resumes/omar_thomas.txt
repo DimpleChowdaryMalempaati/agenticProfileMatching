@@ -1,0 +1,28 @@
+Omar Thomas
+omar.thomas@email.com | linkedin.com/in/omarthomas
+
+Summary
+Backend Java Developer with 9+ years of experience. Designed microservices for high-traffic financial platforms.
+
+Experience
+Senior Backend Java Developer | TechCorp 15
+2017-Present
+- Designed microservices for high-traffic financial platforms.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: Java, Spring, Microservices, PostgreSQL, Kafka, REST
+
+Backend Java Developer | InnovateSoft 15
+2015-2017
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+B.A. Mathematics, Georgia Tech
+Graduated 2015
+
+Skills
+Java, Spring, Microservices, PostgreSQL, Kafka, REST
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

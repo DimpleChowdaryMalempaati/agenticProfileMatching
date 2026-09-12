@@ -1,0 +1,28 @@
+Chris Wright
+chris.wright@email.com | linkedin.com/in/chriswright
+
+Summary
+Data Engineer with 6+ years of experience. Built ETL pipelines and data warehouses.
+
+Experience
+Senior Data Engineer | TechCorp 29
+2020-Present
+- Built ETL pipelines and data warehouses.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: Python, Spark, SQL, AWS, Airflow, PostgreSQL
+
+Data Engineer | InnovateSoft 29
+2018-2020
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+B.S. Software Engineering, University of Washington
+Graduated 2018
+
+Skills
+Python, Spark, SQL, AWS, Airflow, PostgreSQL
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

@@ -1,0 +1,28 @@
+Victor Clark
+victor.clark@email.com | linkedin.com/in/victorclark
+
+Summary
+Full Stack Developer with 5+ years of experience. Developed scalable web applications and REST APIs.
+
+Experience
+Senior Full Stack Developer | TechCorp 22
+2021-Present
+- Developed scalable web applications and REST APIs.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: JavaScript, TypeScript, React, Node.js, PostgreSQL, REST, Git
+
+Full Stack Developer | InnovateSoft 22
+2019-2021
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+M.S. Machine Learning, Stanford University
+Graduated 2019
+
+Skills
+JavaScript, TypeScript, React, Node.js, PostgreSQL, REST, Git
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

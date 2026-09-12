@@ -1,0 +1,28 @@
+Hannah Davis
+hannah.davis@email.com | linkedin.com/in/hannahdavis
+
+Summary
+Frontend Engineer with 4+ years of experience. Created responsive UI components and design systems.
+
+Experience
+Senior Frontend Engineer | TechCorp 8
+2022-Present
+- Created responsive UI components and design systems.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: React, TypeScript, JavaScript, GraphQL, REST, Git
+
+Frontend Engineer | InnovateSoft 8
+2020-2022
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+Ph.D. Computer Science, Purdue University
+Graduated 2020
+
+Skills
+React, TypeScript, JavaScript, GraphQL, REST, Git
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

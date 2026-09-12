@@ -1,0 +1,22 @@
+{
+  "filename": "nlp_engineer.json",
+  "title": "NLP Engineer",
+  "description": "NLP Engineer to develop text classification, entity extraction, and LLM-powered features. PyTorch and FastAPI experience required. 4+ years in NLP or ML engineering.",
+  "critical_skills": [
+    "Python",
+    "NLP",
+    "PyTorch",
+    "Machine Learning",
+    "FastAPI"
+  ],
+  "must_have": [
+    {
+      "skill": "NLP",
+      "min_years": 3
+    },
+    {
+      "skill": "Python",
+      "min_years": 4
+    }
+  ]
+}

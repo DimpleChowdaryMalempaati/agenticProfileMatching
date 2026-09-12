@@ -1,0 +1,28 @@
+Tara White
+tara.white@email.com | linkedin.com/in/tarawhite
+
+Summary
+Mobile Developer with 5+ years of experience. Shipped cross-platform mobile apps with React Native.
+
+Experience
+Senior Mobile Developer | TechCorp 20
+2021-Present
+- Shipped cross-platform mobile apps with React Native.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: JavaScript, React, TypeScript, REST, Git, Agile
+
+Mobile Developer | InnovateSoft 20
+2019-2021
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+M.S. Data Science, Cornell University
+Graduated 2019
+
+Skills
+JavaScript, React, TypeScript, REST, Git, Agile
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

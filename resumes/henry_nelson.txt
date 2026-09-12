@@ -1,0 +1,28 @@
+Henry Nelson
+henry.nelson@email.com | linkedin.com/in/henrynelson
+
+Summary
+DevOps Engineer with 7+ years of experience. Automated cloud infrastructure and deployment pipelines.
+
+Experience
+Senior DevOps Engineer | TechCorp 34
+2019-Present
+- Automated cloud infrastructure and deployment pipelines.
+- Led cross-functional teams and improved system reliability by 35%.
+- Technologies: AWS, Docker, Kubernetes, Terraform, CI/CD, Linux, Python
+
+DevOps Engineer | InnovateSoft 34
+2017-2019
+- Developed core features and automated testing workflows.
+- Collaborated in Agile/Scrum environment.
+
+Education
+M.S. Computer Science, Carnegie Mellon University
+Graduated 2017
+
+Skills
+AWS, Docker, Kubernetes, Terraform, CI/CD, Linux, Python
+
+Projects
+- Open-source contributor and internal tooling for deployment automation.
+- Built analytics dashboard used by 500+ stakeholders.

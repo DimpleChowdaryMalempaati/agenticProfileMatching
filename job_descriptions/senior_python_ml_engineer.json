@@ -1,0 +1,25 @@
+{
+  "filename": "senior_python_ml_engineer.json",
+  "title": "Senior Python ML Engineer",
+  "description": "We are seeking a Senior Python ML Engineer to design and deploy machine learning models at scale. You will work with TensorFlow/PyTorch, build data pipelines, and collaborate with product teams. Must have 5+ years Python experience and strong ML fundamentals.",
+  "critical_skills": [
+    "Python",
+    "Machine Learning",
+    "TensorFlow",
+    "PyTorch",
+    "AWS",
+    "Docker"
+  ],
+  "must_have": [
+    {
+      "skill": "Python",
+      "min_years": 5,
+      "description": "5+ years Python"
+    },
+    {
+      "skill": "Machine Learning",
+      "min_years": 3,
+      "description": "ML experience"
+    }
+  ]
+}

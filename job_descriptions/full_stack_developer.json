@@ -1,0 +1,23 @@
+{
+  "filename": "full_stack_developer.json",
+  "title": "Full Stack Developer",
+  "description": "Join our product team as a Full Stack Developer. Build React frontends and Node.js backends, design REST APIs, and work with PostgreSQL. 3+ years experience required. Remote-friendly.",
+  "critical_skills": [
+    "React",
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL",
+    "REST",
+    "JavaScript"
+  ],
+  "must_have": [
+    {
+      "skill": "React",
+      "min_years": 2
+    },
+    {
+      "skill": "JavaScript",
+      "min_years": 3
+    }
+  ]
+}
